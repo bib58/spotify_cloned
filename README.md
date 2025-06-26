@@ -5,7 +5,6 @@ A responsive music player web app that mimics the core experience of Spotify —
 Unlike typical clones, this version supports **your own local music files** via direct folder uploads. No frameworks, no dependencies!
 
 ---
-
 ## 🚀 Features
 
 - 🎧 **Play Local Music**: Upload a folder and instantly access your MP3 files.
@@ -15,33 +14,10 @@ Unlike typical clones, this version supports **your own local music files** via 
 
 ---
 
-## 📁 How It Works
-
-1. Upload a folder of `.mp3` files via the interface or server directory.
-2. Songs are dynamically listed and rendered using JavaScript.
-3. Click any song to play, control playback with custom media controls.
-
----
-
-## 🖼️ Screenshots
-
-> 📌 Add some screenshots or a demo GIF here for better visibility.
-
----
-
-## 🛠 Tech Stack
-
-- HTML5
-- CSS3 (with responsive design)
-- JavaScript (Vanilla, no frameworks)
-
----
-
 ## 💡 Upcoming Ideas
 
 - Dark mode toggle  
-- Shuffle & repeat functionality  
+- Shuffle functionality  
 - Playlist creation & local storage sync  
 - Drag & drop folder upload support
-
 
